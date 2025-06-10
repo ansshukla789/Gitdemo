@@ -9,7 +9,8 @@ public class App2 {
 		 System.out.println( "fhffhffg" );
 		 
 		 System.out.println( "goolaman" );
-
+		 System.out.println( "10" );
+		 System.out.println( "9" );
 	}
 
 }

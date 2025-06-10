@@ -12,7 +12,7 @@ public class App3 {
 		System.out.println("i am dolu only");		
 
 		System.out.println("i am menu only");		
-
+		 System.out.println( "11" );
 	}
 
 }
